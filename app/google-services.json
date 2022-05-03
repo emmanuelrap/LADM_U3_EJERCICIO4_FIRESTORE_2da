@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "506048395309",
+    "firebase_url": "https://proyecto4ladmtectepiccez-c2c08-default-rtdb.firebaseio.com",
+    "project_id": "proyecto4ladmtectepiccez-c2c08",
+    "storage_bucket": "proyecto4ladmtectepiccez-c2c08.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:506048395309:android:ae73bbb908097c47ff20a4",
+        "android_client_info": {
+          "package_name": "com.example.ladm_u3_ejercicio4_firestore_2da"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "506048395309-qss1af7a59q7iagpijpc9k5m1qnn1jki.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgM_PCKwRlJ4pCvkr9iDJzPJYp7Z2SiV4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "506048395309-qss1af7a59q7iagpijpc9k5m1qnn1jki.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
